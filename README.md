@@ -1,11 +1,37 @@
-- 👋 Hi, I’m @sium01
-- 👀 I’m interested in HTML,CSS,Bootstrap,Javascript, MonguDB,Express.Js,React.Js,Node,Js.
-- 🌱 I’m currently learning full stack developing.
-- 💞️ I’m looking to collaborate on IT Institute.
-- 😄 Pronouns: Siam
-- ⚡ Fun fact: ...
+Sohail Hazary Siam-MERN Stack Developer
+- 👋 Hi, I’m Siam !I'm a passionate MERN stack developer with experience in building full-stack web applications.
+- 🚀Skills:
+-**Frontend:**
+  React.js,HTML,CSS,Javascript
+-**Backend:**
+   Node.js,Express.js
+-**Database:**
+   MonguDb
+-**⚙️Tools & 🗼Platforms:**
+  Git,GitHub,Docker,Vscode.
+-💻Projects:
+##[E-commerce website]
+-**description:**
+  Breif description of the project.
+-**Technologies Used:**
+HTML,CSS
+Live Link:#
+Github Repo:#
+##[Wather Application]
+-**Description:**
+  Breif description of the project.
+-**Technology Used:**
+  HTML,CSS, Bootstrap,JavaScript.
+  Live Link:#
+Github Repo:#
+##[Quize Application]
+-**Description:**
+  Breif description of the project.
+-**Technology Used:**
+  HTML,CSS, Bootstrap,JavaScript.
+  Live Link:#
+Github Repo:#
 
-<!---
-sium01/sium01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+-CONTACT ME:
+E-mail:sohailhazarysiam@gmail.com
+
