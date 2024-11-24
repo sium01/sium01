@@ -1,37 +1,37 @@
 Sohail Hazary Siam-MERN Stack Developer
 - 👋 Hi, I’m Siam !I'm a passionate MERN stack developer with experience in building full-stack web applications.
 - 🚀Skills:
--**Frontend:**
+- **Frontend:**
   React.js,HTML,CSS,Javascript
--**Backend:**
+- **Backend:**
    Node.js,Express.js
--**Database:**
+- **Database:**
    MonguDb
--**⚙️Tools & 🗼Platforms:**
+- ⚙️Tools & 🗼Platforms:**
   Git,GitHub,Docker,Vscode.
--💻Projects:
+- 💻Projects:
 ##[E-commerce website]
--**description:**
+- **description:**
   Breif description of the project.
--**Technologies Used:**
+- **Technologies Used:**
 HTML,CSS
 Live Link:#
 Github Repo:#
 ##[Wather Application]
--**Description:**
+- **Description:**
   Breif description of the project.
--**Technology Used:**
+- **Technology Used:**
   HTML,CSS, Bootstrap,JavaScript.
   Live Link:#
 Github Repo:#
 ##[Quize Application]
--**Description:**
+- **Description:**
   Breif description of the project.
--**Technology Used:**
+- **Technology Used:**
   HTML,CSS, Bootstrap,JavaScript.
   Live Link:#
 Github Repo:#
 
--CONTACT ME:
+- CONTACT ME:
 E-mail:sohailhazarysiam@gmail.com
 
