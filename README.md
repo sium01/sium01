@@ -16,7 +16,7 @@ Sohail Hazary Siam-MERN Stack Developer
 - **Technologies Used:**
 HTML,CSS
 - Live Link:https://sium01.github.io/E-commerce-Website/
-- Github Repo:#
+- Github Repo:https://github.com/sium01/E-commerce-Website
 - #2[Wather Application]
 - **Description:**
   Breif description of the project.
