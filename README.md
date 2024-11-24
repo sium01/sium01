@@ -8,9 +8,9 @@ Sohail Hazary Siam-MERN Stack Developer
 - **Database:**
    MonguDb
 - ⚙️Tools & 🗼Platforms:**
-  Git,GitHub,Docker,Vscode.
+- Git,GitHub,Docker,Vscode.
 - 💻Projects:
-##[E-commerce website]
+- ##[E-commerce website]
 - **description:**
   Breif description of the project.
 - **Technologies Used:**
