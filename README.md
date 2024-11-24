@@ -10,21 +10,21 @@ Sohail Hazary Siam-MERN Stack Developer
 - ⚙️Tools & 🗼Platforms:**
  Git,GitHub,Docker,Vscode.
 - 💻Projects:
-- ##[E-commerce website]
+- #1[E-commerce website]
 - **description:**
   Breif description of the project.
 - **Technologies Used:**
 HTML,CSS
 - Live Link:#
 - Github Repo:#
-- ##[Wather Application]
+- #2[Wather Application]
 - **Description:**
   Breif description of the project.
 - **Technology Used:**
   HTML,CSS, Bootstrap,JavaScript.
 - Live Link:#
 - Github Repo:#
-- ##[Quize Application]
+- #3[Quize Application]
 - **Description:**
   Breif description of the project.
 - **Technology Used:**
