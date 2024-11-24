@@ -8,30 +8,30 @@ Sohail Hazary Siam-MERN Stack Developer
 - **Database:**
    MonguDb
 - ⚙️Tools & 🗼Platforms:**
-- Git,GitHub,Docker,Vscode.
+ Git,GitHub,Docker,Vscode.
 - 💻Projects:
 - ##[E-commerce website]
 - **description:**
   Breif description of the project.
 - **Technologies Used:**
 HTML,CSS
-Live Link:#
-Github Repo:#
-##[Wather Application]
+- Live Link:#
+- Github Repo:#
+- ##[Wather Application]
 - **Description:**
   Breif description of the project.
 - **Technology Used:**
   HTML,CSS, Bootstrap,JavaScript.
-  Live Link:#
-Github Repo:#
-##[Quize Application]
+- Live Link:#
+- Github Repo:#
+- ##[Quize Application]
 - **Description:**
   Breif description of the project.
 - **Technology Used:**
   HTML,CSS, Bootstrap,JavaScript.
-  Live Link:#
-Github Repo:#
+- Live Link:#
+- Github Repo:#
 
 - CONTACT ME:
-E-mail:sohailhazarysiam@gmail.com
+sohailhazarysiam@gmail.com
 
