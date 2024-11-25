@@ -29,8 +29,8 @@ HTML,CSS
   Breif description of the project.
 - **Technology Used:**
   HTML,CSS, Bootstrap,JavaScript.
-- Live Link:#
-- Github Repo:#
+
+- Github Repo:https://github.com/sium01/Quiz-App
 
 - CONTACT ME:
 sohailhazarysiam@gmail.com
