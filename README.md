@@ -7,7 +7,7 @@ Sohail Hazary Siam-MERN Stack Developer
    Node.js,Express.js
 - **Database:**
    MonguDb
-- ⚙️Tools & 🗼Platforms:**
+- ⚙️Tools & 🗼Platforms:
  Git,GitHub,Docker,Vscode.
 - 💻Projects:
 - #1[E-commerce website]
