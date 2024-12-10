@@ -23,7 +23,7 @@ HTML,CSS
 - **Technology Used:**
   HTML,CSS, Bootstrap,JavaScript.
 - Live Link:https://sium01.github.io/Weather-App/
-- Github Repo :https://sium01.github.io/Weather-App 
+- Github Repo :https://github.com/sium01/Weather-App
   
 - 
 - #3[Quize Application]
