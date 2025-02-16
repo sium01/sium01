@@ -60,7 +60,7 @@
 
 ---
 
-## 🚀 Tools & Featured Projects  
+## 🚀 Featured Projects  
 <p align="center">
   <ul>
     <li>🔗 <a href="https://github.com/sium01/Weather-App">✅ Weather App (HTML, CSS, JavaScript)</a> - A sleek and user-friendly Weather App that fetches real-time weather data based on user input. Features include temperature display, weather conditions, and dynamic background updates</li>
