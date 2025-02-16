@@ -8,13 +8,13 @@
 - 💡 Tech enthusiast and problem solver  
 
 ---
-
-### 🌐 Connect with Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siam69/)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazmul_hasan_siam01/)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sium99122)  
+### 🎯 About Me  
+- 💡 Passionate about **MERN Stack Development**  
+- 🌎 Looking for **Remote Job Opportunities**  
+- ✨ Love to contribute to **Open Source**  
 
 ---
+
 
 ### 🛠️ Tech Stack  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
@@ -47,13 +47,13 @@
 - [🔗 Weather App (HTML, CSS, JavaScript)](https://github.com/sium01/Weather-App) - A sleek and user-friendly Weather App that fetches real-time weather data based on user input. Features include temperature display, weather conditions, and dynamic background updates
 - [🔗 Bubble Game (React.js)](https://github.com/sium01/Bubble-Game) - A fun and addictive Bubble Shooter Game built with React.js. The game challenges players to pop bubbles of the same color to score points while testing their speed and accuracy
 
----
-
-### 🎯 About Me  
-- 💡 Passionate about **MERN Stack Development**  
-- 🌎 Looking for **Remote Job Opportunities**  
-- ✨ Love to contribute to **Open Source**  
+---### 🌐 Connect with Me  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/siam69/)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/nazmul_hasan_siam01/)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/sium99122)  
 
 ---
+
+
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sium01&label=Profile%20Views&color=blue&style=plastic)  
