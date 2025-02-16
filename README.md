@@ -1,5 +1,5 @@
 # Hi there, I'm Sium! 👋 
-![typing text](https://giphy.com/gifs/animated-text-typing-3o7btVhwch1xg7X9fi)
+
 
 
 ---
