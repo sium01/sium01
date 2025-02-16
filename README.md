@@ -1,21 +1,5 @@
 # Hi there, I'm Sium! 👋 
 
-
-
-
-
-Welcome to my GitHub profile! I'm passionate about building modern web applications using **MERN Stack** and exploring new technologies that help create impactful solutions. 👨‍💻
-
-## About Me:
-- 💻 I specialize in **Full-Stack Software Development**, particularly with **React.js, Node.js, Express.js, MongoDB**.
-- 🌍 I am constantly exploring new technologies to stay up-to-date with the rapidly evolving tech industry.
-- 🛠 I love problem-solving and enjoy creating scalable and efficient applications.
-- 🌱 Currently improving my skills in **TypeScript**, **GraphQL**, and **Cloud Services**.
-- 🤝 Always looking to collaborate on open-source projects and contribute to the community.
-
-
-
-
 ---
 
 ## 🚀 Full Stack Developer | MERN Stack Enthusiast  
