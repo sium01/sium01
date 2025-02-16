@@ -1,4 +1,6 @@
-# Hi there, I'm Sium! 👋  
+# Hi there, I'm Sium! 👋 
+![siam is a web developer](https://giphy.com/gifs/animated-text-typing-3o7btVhwch1xg7X9fi)
+
 
 ---
 
