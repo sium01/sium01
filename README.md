@@ -1,21 +1,10 @@
 # Hi there, I'm Sium! 👋  
 
-
-## About Me:
-- 💻 I specialize in **Full-Stack Software Development**, particularly with **React.js, Node.js, Express.js, MongoDB**.
-- 🌍 I am constantly exploring new technologies to stay up-to-date with the rapidly evolving tech industry.
-- 🛠 I love problem-solving and enjoy creating scalable and efficient applications.
-- 🌱 Currently improving my skills in **TypeScript**, **GraphQL**, and **Cloud Services**.
-- 🤝 Always looking to collaborate on open-source projects and contribute to the community.
-
-
-
 ---
-
 ## 🚀 Full Stack Developer | MERN Stack Enthusiast  
 Welcome to my GitHub profile! I'm passionate about building modern web applications using **MERN Stack** and exploring new technologies that help create impactful solutions. 👨‍💻
 <p align="center">
-  <img src="https://camo.githubusercontent.com/b0d5210222fd2abc8a886d1ff86ae33baf29e824eb2efcc4fe755551e0a87cae/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313137336264396130363864366634636362336437333237366561323463376234633963623534373630267269643d67697068792e6769662663743d67" alt="Your Image" width="200"/>
+  <img src="https://camo.githubusercontent.com/b0d5210222fd2abc8a886d1ff86ae33baf29e824eb2efcc4fe755551e0a87cae/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313137336264396130363864366634636362336437333237366561323463376234633963623534373630267269643d67697068792e6769662663743d67" alt="Your Image" width="500" height="300"/>
 </p>
 
 ##  About ME
