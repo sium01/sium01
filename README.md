@@ -7,7 +7,8 @@
 <p align="center">
   <img src="https://camo.githubusercontent.com/b0d5210222fd2abc8a886d1ff86ae33baf29e824eb2efcc4fe755551e0a87cae/68747470733a2f2f6d65646961322e67697068792e636f6d2f6d656469612f7167515567674143335066763638377150432f67697068792e6769663f6369643d373930623736313137336264396130363864366634636362336437333237366561323463376234633963623534373630267269643d67697068792e6769662663743d67" alt="Your Image" width="200"/>
 </p>
-## About ME
+
+##  About ME
 - 🔭 Currently working on **MERN Stack Projects**  
 - 🌱 Exploring **AI & Data Science**  
 - 🤝 Open to collaborate on **Open-Source Projects**  
