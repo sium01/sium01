@@ -41,12 +41,12 @@ Welcome to my GitHub profile! I'm passionate about building modern web applicati
 
 
 ---
+### 📊 GitHub Stats  
+![Sium's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sium01&show_icons=true&theme=radical&count_private=true)  
 
-## 📊 GitHub Stats & Top Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sium01&show_icons=true&theme=radical"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sium01&layout=compact&theme=radical"/>
-</p>
+### 🚀 Top Languages  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sium01&layout=compact&theme=radical)  
+
 
 ---
 
