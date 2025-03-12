@@ -83,5 +83,4 @@ Welcome to my GitHub profile! I'm passionate about building modern web applicati
 
 ![Profile Views](https://komarev.com/ghpvc/?username=sium01&label=Profile%20Views&color=blue&style=plastic)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sium01&layout=compact&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
